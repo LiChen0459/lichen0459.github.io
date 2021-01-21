@@ -6,7 +6,7 @@
   <link href="https://lichen0459.github.io/atom.xml" rel="self"/>
   
   <link href="https://lichen0459.github.io/"/>
-  <updated>2021-01-21T06:50:42.599Z</updated>
+  <updated>2021-01-21T06:53:56.466Z</updated>
   <id>https://lichen0459.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lichen0459.github.io/posts/lcpy/"/>
     <id>https://lichen0459.github.io/posts/lcpy/</id>
     <published>2021-01-17T04:11:00.000Z</published>
-    <updated>2021-01-21T06:50:42.599Z</updated>
+    <updated>2021-01-21T06:53:56.466Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-安装python"><a href="#1-安装python" class="headerlink" title="1. 安装python"></a>1. 安装python</h2><p>想要编写python程序, 就需要下载安装python解释器, 下面就跟着我来下载python并安装python的解释器吧 !!</p><ol><li>下载</li></ol><p>进入Python的官方网站页面 <a href="https://www.python.org/">https://www.python.org/</a> 点击Downloads,如下图</p><p><img src="https://cdn.jsdelivr.net/gh/lichen0459/image@main/img/20210121113037.png"></p><div class="note warning flat"><p>如果下载慢请看下面</p></div><p>我这里打包了百度网盘需要的自行下载</p><p>链接：<a href="https://pan.baidu.com/s/1i3fwGv7hfOMqQN6judf6bw">https://pan.baidu.com/s/1i3fwGv7hfOMqQN6judf6bw</a><br>提取码：lcpy </p><ol start="2"><li><p>安装</p><p>新手安装课以一直下一步</p><div class="note warning flat"><p>如果下载慢请看下面</p></div><p>注意: 一定要勾上”<strong>add python.exe to path</strong>“这对以后有很大的帮助</p><p><img src="https://cdn.jsdelivr.net/gh/lichen0459/image@main/img/20210121144258.png"></p><p>3.</p><p>然后打开cmd</p><p>输入”python”测试</p></li></ol><p><img src="https://cdn.jsdelivr.net/gh/lichen0459/image@main/img/20210121144434.png"></p><p>​    这里可以使用python最简单的”print”语句来输出hello，world测试</p><p>​    代码:</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">&quot;hello,world&quot;</span>)</span><br></pre></td></tr></table></figure><p>​    <img src="https://cdn.jsdelivr.net/gh/lichen0459/image@main/img/20210121144614.png"></p><p>​    如果出现上面那样就说明安装成功</p><p>​    好了，今天就这么多，快去试试你的python，输出一行“Hello World”吧。完成的同学可以截个屏发给我的qq。</p><h2 id="2-print语句"><a href="#2-print语句" class="headerlink" title="2. print语句"></a>2. print语句</h2><ol><li></li></ol>]]></content>
     
